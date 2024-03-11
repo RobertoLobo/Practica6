@@ -1,0 +1,7 @@
+# ninja log v5
+8	176	731889546	CMakeFiles/objLib.dir/objlib.cpp.obj	4705b35093a179c9
+1	178	731889546	CMakeFiles/staticLib.dir/staticlib1.cpp.obj	ebfb9681e116cab8
+22	203	731889546	CMakeFiles/staticLib.dir/staticlib2.cpp.obj	3b1efe83cb338c
+15	213	731889546	CMakeFiles/static_link_order_test.dir/main.cpp.obj	576413c500b0bc24
+203	275	731889546	staticLib.lib	407dece374a6b8fe
+276	697	731889547	static_link_order_test.exe	79dedf2ce95eca68

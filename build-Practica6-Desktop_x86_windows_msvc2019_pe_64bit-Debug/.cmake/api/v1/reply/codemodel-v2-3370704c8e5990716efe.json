@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practica6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica6-Debug-672dd23353b3d7126c66.json",
+					"name" : "Practica6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica6_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica6_autogen-Debug-c4a578b08ac5a1d8679e.json",
+					"name" : "Practica6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica6_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica6_autogen_timestamp_deps-Debug-5191a1bf3313e1677a66.json",
+					"name" : "Practica6_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica6-Desktop_x86_windows_msvc2019_pe_64bit-Debug",
+		"source" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
